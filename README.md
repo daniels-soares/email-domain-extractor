@@ -18,7 +18,7 @@ Este script em Python carrega uma lista de e-mails e extrai todos os domínios �
 ### 🛠️ Como usar:
 1. Crie um arquivo chamado `mail_list.txt` com um e-mail por linha.
 2. Execute o script para extrair os domínios:
-   `python domain_extractor.py`
+   `domain_extractor.py`
 
 ### 📄 Exemplo de entrada (mail_list.txt):
 <img width="278" height="70" alt="image" src="https://github.com/user-attachments/assets/e88de5b3-ed0d-4e5f-ad72-b7ad9988b90a" />
